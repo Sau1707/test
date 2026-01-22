@@ -1,3 +1,5 @@
+name: Scheduled Test Workflow
+
 on:
   schedule:
     - cron: '*/5 * * * *'
